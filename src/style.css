@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#generateDomainName {
+  background-color: green;
+}
+
+#generateDomainName:hover {
+  background-color: forestgreen;
+}
+
+#generateDomainName:active {
+  background-color: darkgreen;
+}
